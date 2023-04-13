@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H2oL+GDGJoY/RI/N03F9WBqbnkSEqPttQuxl4iiDCQI=",
+  "Source": "CustomerBankAccount.CoreAPI",
+  "BasePath": "_content/CustomerBankAccount.CoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

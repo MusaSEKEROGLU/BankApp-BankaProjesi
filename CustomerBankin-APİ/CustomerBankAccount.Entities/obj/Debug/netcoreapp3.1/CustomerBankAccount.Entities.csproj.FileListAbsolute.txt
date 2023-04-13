@@ -1,0 +1,10 @@
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.deps.json
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.AssemblyInfo.cs
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Entities\obj\Debug\netcoreapp3.1\CustomerBankAccount.Entities.csproj.AssemblyReference.cache

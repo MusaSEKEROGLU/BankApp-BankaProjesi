@@ -1,0 +1,27 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a.btn btn-success {
+    margin-left: 500px;
+}
+
+#lblGvHesapDetay {
+    color: red;
+    font-weight: bold;
+}
+
+#Tablo {
+    width: 1200px;
+    height: 750px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 75px;
+    background-color: #0094ff;
+    opacity: 1.2;
+}
+
+h4 {
+    color: green;
+    font-weight: bold;
+}

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58067da4-e192-4e62-966f-d5f25d2da4eb": {
+      "ProjectGuid": "58067da4-e192-4e62-966f-d5f25d2da4eb",
+      "DisplayName": "CustomerBankAccount.CoreAPI",
+      "ColorIndex": 0
+    },
+    "a5d0f1a8-8863-451c-8aa8-98143c0f6099": {
+      "ProjectGuid": "a5d0f1a8-8863-451c-8aa8-98143c0f6099",
+      "DisplayName": "CustomerBankAccount.DataAccess",
+      "ColorIndex": 1
+    },
+    "8c40832f-6ff7-461b-9c19-c6a759fbaae4": {
+      "ProjectGuid": "8c40832f-6ff7-461b-9c19-c6a759fbaae4",
+      "DisplayName": "CustomerBankAccount.Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2961b96f-e8f4-412b-9346-f9d1cba9f944": {
+      "ProjectGuid": "2961b96f-e8f4-412b-9346-f9d1cba9f944",
+      "DisplayName": "CustomerBankAccount.Business",
+      "ColorIndex": 3
+    },
+    "c8f07b51-8eab-4be9-8393-b71c8041464f": {
+      "ProjectGuid": "c8f07b51-8eab-4be9-8393-b71c8041464f",
+      "DisplayName": "CustomerBankAccount.WebUI",
+      "ColorIndex": 4
+    },
+    "fd2516b4-a6ef-4828-9151-8fc39c76b65c": {
+      "ProjectGuid": "fd2516b4-a6ef-4828-9151-8fc39c76b65c",
+      "DisplayName": "CustomerBankAccount.WebUI",
+      "ColorIndex": 5
+    },
+    "e692d16f-09f0-4443-a5ca-3e25e745642e": {
+      "ProjectGuid": "e692d16f-09f0-4443-a5ca-3e25e745642e",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 6
+    },
+    "948a5129-b57e-47c8-bcbf-e988361e8378": {
+      "ProjectGuid": "948a5129-b57e-47c8-bcbf-e988361e8378",
+      "DisplayName": "CustomerBankAccount.WebUI",
+      "ColorIndex": 7
+    },
+    "48d65a5c-44cd-49c3-b817-81536aa063b4": {
+      "ProjectGuid": "48d65a5c-44cd-49c3-b817-81536aa063b4",
+      "DisplayName": "CustomerBankAccount.WebUI",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

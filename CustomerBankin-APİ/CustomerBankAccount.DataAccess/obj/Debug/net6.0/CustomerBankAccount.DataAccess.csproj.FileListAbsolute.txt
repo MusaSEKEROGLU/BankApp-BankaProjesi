@@ -1,0 +1,17 @@
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.DataAccess.deps.json
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.DataAccess.runtimeconfig.json
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.DataAccess.pdb
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.Entities.dll
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\bin\Debug\net6.0\CustomerBankAccount.Entities.pdb
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.AssemblyInfo.cs
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.csproj.CopyComplete
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\refint\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.pdb
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\CustomerBankAccount.DataAccess.genruntimeconfig.cache
+C:\Users\drnma\Desktop\BankProject-CoreApi-WebForm\CustomerBankin-APİ\CustomerBankAccount.DataAccess\obj\Debug\net6.0\ref\CustomerBankAccount.DataAccess.dll

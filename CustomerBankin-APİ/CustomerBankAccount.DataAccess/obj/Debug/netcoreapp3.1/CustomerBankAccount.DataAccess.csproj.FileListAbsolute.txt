@@ -1,0 +1,16 @@
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.deps.json
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.runtimeconfig.json
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.runtimeconfig.dev.json
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.AssemblyInfo.cs
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.csproj.CopyComplete
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.DataAccess\obj\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.genruntimeconfig.cache

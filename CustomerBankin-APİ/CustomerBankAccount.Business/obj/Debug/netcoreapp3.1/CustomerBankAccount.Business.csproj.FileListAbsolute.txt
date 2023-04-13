@@ -1,0 +1,15 @@
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.Business.deps.json
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.Business.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.Business.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.DataAccess.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\bin\Debug\netcoreapp3.1\CustomerBankAccount.Entities.pdb
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.AssemblyInfo.cs
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.csproj.CopyComplete
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.dll
+C:\Users\drnma\Desktop\XPROJE\CustomerBankAccount\CustomerBankAccount.Business\obj\Debug\netcoreapp3.1\CustomerBankAccount.Business.pdb
